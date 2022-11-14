@@ -2,7 +2,7 @@
 nav: false
 ---
 
-[<img src="iRONS_logo_6.png" alt="iRONS logo" style="width:60%;" >](./index.md/)
+[<img src="drawing2.png" alt="SAFE logo" style="width:60%;" >](./index.md/)
 
 ## The Sensitivity Analysis For Everybody (SAFE) Toolbox
 
