@@ -26,7 +26,7 @@ Access the GitHub repository of the [Matlab code](https://github.com/SAFEtoolbox
 
 * [Scientific and technical documentation](./Documentation.md/)
 * [Applications](./Applications.md/)
-* [PAWN method](./PAWN.md/)
+* [PAWN method](./Pawn.md/)
 * [Frequently Asked Questions](./FAQs.md/)
 
 ### Contributors
