@@ -29,22 +29,6 @@ Access the GitHub repository of the [Matlab code](https://github.com/SAFEtoolbox
 * [PAWN method](./Pawn.md/)
 * [Frequently Asked Questions](./Faqs.md/)
 
-### Contributors
-
-SAFE was originally developed in Matlab by Francesca Pianosi, Fanny Sarrazin and Thorsten Wagener 
-at the Department of Civil Engineering at the University of Bristol. The R version was developed
-by Isabella Gollini and Valentina Noacco. The Python Jupyter Notebooks were developed by
-Andres Penuela-Fernandez.
-
-### Acknowledgements
-
-The development of SAFE was originally supported by the UK Natural Environment Research Council 
-through the Consortium on Risk in the Environment: Diagnostics, Integration, Benchmarking, Learning 
-and Elicitation (CREDIBLE) [NE/J017450/1].
-The further development of SAFE, including the implementation of the Python version, 
-has been supported by the UK Engineering and Physical Sciences Research Council through 
-a Living with Environmental Change Fellowship [EP/R007330/1] and the EPSRC Impact Acceleration Account.
-
 <!--
 ### Install iRONS locally ###
 To install iRONS on your computer: [Install iRONS](./Install.md/)
@@ -60,6 +44,22 @@ Pianosi, F., Wagener, T., Sarrazin, F. (2020), How successfully is open-source r
 ### License
 Copyright (C) 2021 Andres Peñuela and Francesca Pianosi. iRONS is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -->
+
+### Contributors
+
+SAFE was originally developed in Matlab by Francesca Pianosi, Fanny Sarrazin and Thorsten Wagener 
+at the Department of Civil Engineering at the University of Bristol. The R version was developed
+by Isabella Gollini and Valentina Noacco. The Python Jupyter Notebooks were developed by
+Andres Penuela-Fernandez.
+
+### Acknowledgements
+
+The development of SAFE was originally supported by the UK Natural Environment Research Council 
+through the Consortium on Risk in the Environment: Diagnostics, Integration, Benchmarking, Learning 
+and Elicitation (CREDIBLE) [NE/J017450/1].
+The further development of SAFE, including the implementation of the Python version, 
+has been supported by the UK Engineering and Physical Sciences Research Council through 
+a Living with Environmental Change Fellowship [EP/R007330/1] and the EPSRC Impact Acceleration Account.
 
 <!--&nbsp;
 <div class="row">
