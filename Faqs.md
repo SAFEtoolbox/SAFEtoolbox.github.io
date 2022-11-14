@@ -1,6 +1,7 @@
-[<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) 
+[<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) <br>
+[Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)
 
-## SAFE Toolbox: Frequently Asked Questions
+### SAFE Toolbox: Frequently Asked Questions
 
 Here you can find a list of Frequently Asked Questions on GSA in general and SAFE in particular.
 
