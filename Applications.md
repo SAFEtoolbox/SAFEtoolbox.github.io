@@ -19,13 +19,13 @@ Summary of key findings: a post on the Cabot Institute blog<br>
 of Change in Model Outputs Based on Global Variations in the Model Inputs, Water Resources Research, 
 56(8).](https://doi.org/10.1029/2020WR027153)<br>
 **Keywords**: model calibration, testing and validation; time-varying GSA <br>
-Additional material: workflow script (and data) to implement the analysis presented in the paper
+<!--Additional material: workflow script (and data) to implement the analysis presented in the paper-->
 
 [Sarrazin, F., Hartmann, A., Pianosi, F., Rosolem, R. Wagener, T. (2018), V2Karst V1.1: 
 a parsimonious large-scale integrated vegetation–recharge model to simulate the impact 
 of climate and land cover change in karst regions, Geosci. Model Dev., 11, 4933-4964.](https://doi.org/10.5194/gmd-11-4933-2018)<br>
 **Keywords**: model calibration; testing and validation; CART <br>
-Access to the code: https://github.com/fannysarrazin/V2Karst_model
+**Code**: https://github.com/fannysarrazin/V2Karst_model
 
 [Almeida, S., Holcombe, E. A., Pianosi, F., and Wagener, T. (2017), Dealing with deep uncertainties 
 in landslide modelling for disaster risk reduction under climate change, Nat. Hazards Earth Syst. Sci., 17,
@@ -35,7 +35,7 @@ in landslide modelling for disaster risk reduction under climate change, Nat. Ha
 [Pianosi, F., Wagener, T. (2016), Understanding the time-varying importance of different uncertainty 
 sources in hydrological modelling using global sensitivity analysis. Hydrol. Process.](https://doi.org/10.1002/hyp.10968)<br>
 **Keywords**: parameter vs data uncertainty; time-varying GSA; sensitivity & identifiability; PAWN method<br>
-Additional material: workflow script (and data) to implement the analysis presented in the paper
+**Code**: workflow script (and data) to implement the analysis presented in the paper can be found [here](https://github.com/SAFEtoolbox/Miscellaneous/tree/main/matlab_code_HP2016)
 
 [Savage, J.T.S., Pianosi, F., Bates, P., Freer, J., Wagener, T. (2016), Quantifying the importance of spatial
 resolution and other factors through global sensitivity analysis of a flood inundation model, Water Resources Research,
