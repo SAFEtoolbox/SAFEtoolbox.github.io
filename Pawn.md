@@ -1,6 +1,7 @@
-[<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) 
+[<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) <br>
+[Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)
 
-## SAFE Toolbox: the PAWN method
+## The PAWN method
 
 PAWN is a new moment-independent GSA method that can be used in place of or as a complement of 
 variance-based (Sobol’) GSA. Moment-independent methods differ from Sobol’ in that they consider 
