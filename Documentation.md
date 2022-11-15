@@ -25,8 +25,8 @@ to explore the type of questions GSA can address, and why using GSA in the first
 For a more playful introduction to the benefits of using GSA, play with our
 interactive Jupyter Notebooks (they can be run from the browser):
 * [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_flu_model.ipynb)
-* Using GSA to identify the most influential model parameters: application to a hydrological model
-* Using GSA to find the key controls of a system: an ecological model example
+* [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_hydrological_model.ipynb)
+* [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_predator_prey_model.ipynb)
 
 ### How to do GSA
 
