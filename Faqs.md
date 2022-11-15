@@ -57,8 +57,8 @@ are typically computed by numerical approximations rather than analytical soluti
 be associated with a non-zero (although small) index value. One way to identify uninfluential factors is to define a threshold 
 value for the sensitivity indices: if the index is below the threshold, then the input factor is deemed uninfluential. 
 The problem then is how to sensibly define the threshold. A simple and effective way to set the threshold for variance-based 
-and PAWN sensitivity indices is by using the estimated sensitivity to a ‘dummy parameter’. <br>
-The approach is described and demonstrated in
+and PAWN sensitivity indices is by using the estimated sensitivity to a ‘dummy parameter’. The approach is 
+described and demonstrated in
 [Zadeh FK et al (2017)](http://www.sciencedirect.com/science/article/pii/S1364815217301159)
 
 ***Q: ARE THERE OTHER METHODS TO ASSESS THE ROBUSTNESS OF RANKING AND SCREENING RESULTS?***
@@ -124,7 +124,7 @@ The reason why we use the first option by default is that it uses less memory, m
 errors more frequently. However, we also give the second option for those who do not have the Statistical Toolbox – 
 they will just need to comment line 86 and uncomment line 88.
 
-***Q: HOW DO I FIX THE PROBLEM?***
+***Q: HOW DO I FIX THE 'OUT OF MEMORY' PROBLEM?***
 
 If you have the Statistical Toolbox and can thus use the more efficient pdist.m function, double check that this is the option 
 being used by lhcube.m. <br>
