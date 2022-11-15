@@ -1,7 +1,7 @@
 [<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) <br>
 [Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)
 
-## SAFE Toolbox: Applications
+## Applications
 
 The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437).
 This page lists our recent applications with additional material, including (when possible) 
