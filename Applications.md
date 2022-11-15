@@ -13,13 +13,13 @@ the workflow script and additional functions to reproduce the paper results with
 Including informal housing in slope stability analysis – an application to a data-scarce 
 location in the humid tropics, Natural Hazards and Earth System Sciences, 20(11).](https://doi.org/10.5194/nhess-20-3161-2020)<br>
 **Keywords**: parameter vs climate uncertainty; scenario-discovery; CART<br>
-Summary of key findings: a post on the Cabot Institute blog<br> 
+Summary of key findings: [blog post for the Cabot Institute](https://cabot-institute.blogspot.com/2021/09/tackling-urban-landslides-in-uncertain.html)<br> 
 
 [Wang, A., Pianosi, F., Wagener, T. (2020), A Diagnostic Approach to Analyze the Direction 
 of Change in Model Outputs Based on Global Variations in the Model Inputs, Water Resources Research, 
 56(8).](https://doi.org/10.1029/2020WR027153)<br>
 **Keywords**: model calibration, testing and validation; time-varying GSA <br>
-<!--Additional material: workflow script (and data) to implement the analysis presented in the paper-->
+**Code**: workflow script (and data) to reproduce the paper findings: [SAFEtoolbox | Miscellaneous | matlab_code_WRR2020](https://github.com/SAFEtoolbox/Miscellaneous/tree/main/matlab_code_WRR2020)
 
 [Sarrazin, F., Hartmann, A., Pianosi, F., Rosolem, R. Wagener, T. (2018), V2Karst V1.1: 
 a parsimonious large-scale integrated vegetation–recharge model to simulate the impact 
@@ -35,7 +35,7 @@ in landslide modelling for disaster risk reduction under climate change, Nat. Ha
 [Pianosi, F., Wagener, T. (2016), Understanding the time-varying importance of different uncertainty 
 sources in hydrological modelling using global sensitivity analysis. Hydrol. Process.](https://doi.org/10.1002/hyp.10968)<br>
 **Keywords**: parameter vs data uncertainty; time-varying GSA; sensitivity & identifiability; PAWN method<br>
-**Code**: workflow script (and data) to implement the analysis presented in the paper can be found [here](https://github.com/SAFEtoolbox/Miscellaneous/tree/main/matlab_code_HP2016)
+**Code**: workflow script (and data) to reproduce the paper findings: [SAFEtoolbox | Miscellaneous | matlab_codeHP2016](https://github.com/SAFEtoolbox/Miscellaneous/tree/main/matlab_code_HP2016)
 
 [Savage, J.T.S., Pianosi, F., Bates, P., Freer, J., Wagener, T. (2016), Quantifying the importance of spatial
 resolution and other factors through global sensitivity analysis of a flood inundation model, Water Resources Research,
