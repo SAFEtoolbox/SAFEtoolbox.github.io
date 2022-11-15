@@ -13,11 +13,14 @@ SAFE was originally developed for the Matlab/Octave environment (Pianosi et al 2
 but is now available also in R and Python. An overview of the community of SAFE users 
 and their evaluation of SAFE can be found in Pianosi et al (2020).
 
-Access the GitHub repository of the [Matlab code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-matlab/) -
-[Python code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-python/) -
-[R code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-R/). <br>
-<!--Please cite the paper Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, Environmental Modelling 
-& Software, 70, 80-85. https://doi.org/10.1016/j.envsoft.2015.04.009-->
+## Download
+
+The SAFE Toolbox is available on GitHub in three versions:
+[Matlab version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-matlab/) -
+[Python version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-python/) -
+[R version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-R/). <br>
+Use SAFE freely but please cite the paper [Pianosi et al. 2015](/index#References) in any publication
+presenting results obtained using SAFE.
 
 ### Learn more
 
