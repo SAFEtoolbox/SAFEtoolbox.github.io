@@ -9,18 +9,15 @@ nav: false
 The SAFE Toolbox provides a set of functions to perform Global Sensitivity Analysis. 
 It implements several methods, including the Elementary Effects Test, Regional Sensitivity Analysis,
 Variance-Based (Sobol’) sensitivity analysis and the PAWN method. <br>
-<!--The advantages of SAFE are:
-* Modular structure to facilitate interactions with other computing environments
-* Set of functions to assess the robustness and convergence of sensitivity indices
-* Several visualization tools to investigate and communicate results
-* Lots of comments in the code and workflow examples to get started-->
 SAFE was originally developed for the Matlab/Octave environment (Pianosi et al 2015) 
 but is now available also in R and Python. An overview of the community of SAFE users 
 and their evaluation of SAFE can be found in Pianosi et al (2020).
 
 Access the GitHub repository of the [Matlab code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-matlab/) -
 [Python code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-python/) -
-[R code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-R/)
+[R code](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-R/). <br>
+<!--Please cite the paper Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, Environmental Modelling 
+& Software, 70, 80-85. https://doi.org/10.1016/j.envsoft.2015.04.009-->
 
 ### Learn more
 
