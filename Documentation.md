@@ -13,20 +13,22 @@ provided with the Toolbox and in the help of each function.
 
 ### Why doing GSA
 
-For a general introduction to Global Sensitivity Analysis (GSA) and what it is useful for, see: <br>
+A **literature review** of GSA applications in the context of earth systems modelling, 
+focusing on what can be learnt about the construction, testing and use of environmental
+models through the application of GSA. <br>
 [Wagener, T. & Pianosi, F. (2019), What has Global Sensitivity Analysis ever done for us? 
 A systematic review to support scientific advancement and to inform policy-making in earth 
 system modelling, Earth-Science Reviews, 149, 1-18.](https://www.sciencedirect.com/science/article/pii/S0012825218300990) <br>
-This paper provides a literature review of GSA applications in the context of earth systems modelling, 
-focusing on what can be learnt about the construction, testing and use of environmental
-models through the application of GSA. This paper could be a useful starting point
-to explore the type of questions GSA can address, and why using GSA in the first place
+This paper could be a useful starting point to explore the type of questions GSA can address, and why using GSA in the first place
 
-For a more playful introduction to the benefits of using GSA, play with our
-interactive Jupyter Notebooks (they can be run from the browser):
+A set of **interactive Jupyter Notebooks** for a more playful introduction to the benefits of using GSA
+(the notebooks can be run from the browser):
 * [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_flu_model.ipynb)
 * [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_hydrological_model.ipynb)
 * [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_predator_prey_model.ipynb)
+
+A discussion about the connection between **GSA and model evaluation** particularly for impacts assessment under change:
+[Wagener, T., Reinecke R., Pianosi, F. (2022) On the evaluation of climate change impact models, WIREs Climate Change, 13(3), e772](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.772)
 
 ### How to do GSA
 
