@@ -37,13 +37,13 @@ To install iRONS on your computer: [Install iRONS](./Install.md/)
 
 ### References ###
 Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, Environmental Modelling 
-& Software, 70, 80-85. https://doi.org/10.1016/j.envsoft.2015.04.009
+& Software, 70, 80-85. [https://doi.org/10.1016/j.envsoft.2015.04.009](https://doi.org/10.1016/j.envsoft.2015.04.009)
 
-Pianosi, F., Wagener, T., Sarrazin, F. (2020), How successfully is open-source research software adopted? Results and implications of surveying the users of a sensitivity analysis toolbox, Environmental Modelling & Software, 124. https://doi.org/10.1016/j.envsoft.2019.104579
+Pianosi, F., Wagener, T., Sarrazin, F. (2020), How successfully is open-source research software adopted? Results and implications of surveying the users of a sensitivity analysis toolbox, Environmental Modelling & Software, 124. [https://doi.org/10.1016/j.envsoft.2019.104579](https://doi.org/10.1016/j.envsoft.2019.104579)
 
 ### License
 This software is distributed under the GNU Public License Version 3. 
-See https://www.gnu.org/licenses/gpl-3.0.en.html for details.
+See [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
 
 ### Contributors ###
 
