@@ -1,5 +1,5 @@
 ---
-nav: false
+nav: true
 ---
 
 [<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/)
