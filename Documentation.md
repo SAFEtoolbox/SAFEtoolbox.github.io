@@ -7,7 +7,7 @@ nav: true
 
 <!-- [Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)-->
 
-## Scientific and Technical Documentation
+<!--## Scientific and Technical Documentation-->
 
 ### How to use SAFE
 
