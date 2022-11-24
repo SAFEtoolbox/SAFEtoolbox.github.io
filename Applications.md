@@ -49,8 +49,8 @@ resolution and other factors through global sensitivity analysis of a flood inun
 **Keywords**: parameter vs data uncertainty; discrete modelling choices
 
 ## Industry applications
-* Knowledge Transfer project on using SAFE in the (re)insurance industry: https://safe-insurance.uk 
+* Knowledge Transfer project on using SAFE in the (re)insurance industry: [safe-insurance.uk](https://safe-insurance.uk) 
 * [Talk](https://youtu.be/z66D5RrSI-Y) on why we need to better handle uncertainty in mathematical models
-* Axa XL [White paper](https://axaxl.com/-/media/axaxl/files/pdfs/campaign/reinsurance-outlook/downloads/safe-axa-xl-whitepaper_v-july-12-2022-clean-copy-pmw.pdf)
+* AXA XL [White paper](https://axaxl.com/-/media/axaxl/files/pdfs/campaign/reinsurance-outlook/downloads/safe-axa-xl-whitepaper_v-july-12-2022-clean-copy-pmw.pdf)
 on using SAFE for Catastrophe models evaluation
 
