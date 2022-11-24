@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Faqs"
 nav: true
 ---
 
 [<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/) <br>
 
-## Frequently Asked Questions
+<!--## Frequently Asked Questions-->
 
 Here you can find a list of Frequently Asked Questions on GSA in general and SAFE in particular.
 
