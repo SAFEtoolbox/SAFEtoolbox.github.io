@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Pawn"
 nav: true
 ---
 
@@ -7,9 +7,9 @@ nav: true
 
 <!-- [Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)-->
 
-## The PAWN method
+<!--  The PAWN method -->
 
-PAWN is a new moment-independent GSA method that can be used in place of or as a complement of 
+PAWN is a moment-independent GSA method that can be used in place of or as a complement of 
 variance-based (Sobol’) GSA. Moment-independent methods differ from Sobol’ in that they consider 
 the entire distribution of the model output, rather than its variance only. As such, they can be 
 preferable when variance is not an adequate proxy of uncertainty, for example when the output 
