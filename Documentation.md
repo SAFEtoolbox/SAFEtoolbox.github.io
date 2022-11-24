@@ -7,7 +7,7 @@
 
 A general introduction to the rationale and architecture of SAFE is given in:<br>
 [Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, 
-Environmental Modelling & Software, 70, 80-85.](http://www.sciencedirect.com/science/article/pii/S1364815215001188)
+Environmental Modelling & Software, 70, 80-85.](http://www.sciencedirect.com/science/article/pii/S1364815215001188)<br>
 Detailed documentation on how to use the toolbox is given in the workflow scripts 
 provided with the Toolbox and in the help of each function.
 
