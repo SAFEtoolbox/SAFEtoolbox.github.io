@@ -3,10 +3,10 @@ title: Documentation
 nav: true
 ---
 
-[<img src="drawing2.png" alt="SAFE logo" style="width:10%;" >](./index.md/) <br>
-[Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)
+[<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/) <br>
+<!-- [Home](./index.md/) - [Documentation](./Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)-->
 
-## Scientific and Technical Documentation 
+<!-- ## Scientific and Technical Documentation --> 
 
 ### How to use SAFE
 
