@@ -49,6 +49,9 @@ minima:
 header_pages:
  - index.md
  - Documentation.md
+ - Applications.md
+ - Pawn.md
+ - Faqs.md
 
 # Build settings
 markdown: kramdown
