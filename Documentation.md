@@ -29,9 +29,9 @@ This paper could be a useful starting point to explore the type of questions GSA
 
 A set of **interactive Jupyter Notebooks** for a more playful introduction to the benefits of using GSA
 (the notebooks can be run from the browser):
-* [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_flu_model.ipynb)
-* [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_hydrological_model.ipynb)
-* [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/AndresPenuela/SAFE-Notebooks/HEAD?urlpath=tree/GSA_predator_prey_model.ipynb)
+* [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=Introductory_Notebooks/GSA_flu_model.ipynb)
+* [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=Introductory_Notebooks/GSA_hydrological_model.ipynb)
+* [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=Introductory_Notebooks/GSA_predator_prey_model.ipynb)
 
 A discussion about the connection between **GSA and model evaluation** particularly for impacts assessment under change: <br>
 [Wagener, T., Reinecke R., Pianosi, F. (2022) On the evaluation of climate change impact models, WIREs Climate Change, 13(3), e772](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.772)
