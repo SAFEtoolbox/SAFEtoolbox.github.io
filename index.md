@@ -42,8 +42,7 @@ Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensi
 Pianosi, F., Wagener, T., Sarrazin, F. (2020), How successfully is open-source research software adopted? Results and implications of surveying the users of a sensitivity analysis toolbox, Environmental Modelling & Software, 124. [doi.org/10.1016/j.envsoft.2019.104579](https://doi.org/10.1016/j.envsoft.2019.104579)
 
 ### License
-This software is distributed under the GNU Public License Version 3. 
-See [www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html) for details.
+This software is distributed under the [GNU Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ### Contributors ###
 
