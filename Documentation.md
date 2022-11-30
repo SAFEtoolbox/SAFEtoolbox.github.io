@@ -17,6 +17,18 @@ Environmental Modelling & Software, 70, 80-85.](http://www.sciencedirect.com/sci
 Detailed documentation on how to use the toolbox is given in the workflow scripts 
 provided with the Toolbox and in the help of each function.
 
+**Getting started** <br>
+To get started using SAFE, we suggest opening one of the workflow scripts and running the code step by step. 
+The header of each workflow script gives a short description of the method and case study model, 
+and of the main steps and purposes of that workflow, as well as references for further reading. 
+The name of each workflow is composed as: <br>
+>> workflow\_\<method\>\_\<model\>
+
+\<model\> includes: two hydrological models (Hymod and HBV) and two benchmark functions (the Ishigami and Homma function, and the Sobol' g-function). <br>
+\<method\> includes: eet (elementary effects test, or method of Morris), fast (Fourier amplitude sensitivity test), rsa (regional sensitivity analysis), vbsa (variance-based sensitivity analysis, or method of Sobol'), PAWN. <br>
+Furthermore, SAFE includes additional workflow scripts on how to connect SAFE to a model running outside matlab/octave
+(external) and how to use visualisation functions for qualitative GSA (visual).
+
 ### Why doing GSA
 
 A **literature review** of GSA applications in the context of earth systems modelling, 
