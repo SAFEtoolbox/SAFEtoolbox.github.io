@@ -27,7 +27,6 @@ presenting results obtained using SAFE.
 
 * [Scientific and technical documentation](./Documentation.md/)
 * [Applications](./Applications.md/)
-* [Training](./Training.md/)
 * [PAWN method](./Pawn.md/)
 * [Frequently Asked Questions](./Faqs.md/)
 
