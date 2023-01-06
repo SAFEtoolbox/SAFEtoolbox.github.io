@@ -3,7 +3,7 @@ title: ""
 nav: true
 ---
 
-<!-- [<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/) <br> -->
+[<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/)
 
 <!-- [Home](./index.md/) - [Documentation](/Documentation.md/) - [Applications](./Applications.md/) - [PAWN](./Pawn.md/) - [FAQ](./Faqs.md/)-->
 
