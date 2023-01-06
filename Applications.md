@@ -9,7 +9,7 @@ nav: true
 
 <!--## Applications-->
 
-Since 2015, SAFE was distributed open-source and free-of-charge through a bespoke website upon filling in a download request. where downloads were allowed after filling in a download form. This distribution model enabled monitoring the number of downloads and gathering some basic information about the users affiliation, role, and area of expertise (Fig. 3). As of February 2023, when the safetoolbox.info website was closed and SAFE was moved to Github, the toolbox had been downloaded over 4000 times.
+Since 2015, SAFE was distributed open-source and free-of-charge through a bespoke website upon filling in a download request. This distribution model enabled monitoring the number of downloads and gathering some basic information about the users affiliation, role, and area of expertise. As of February 2023, when the safetoolbox.info website was closed and SAFE was moved to Github, the toolbox had been downloaded over 4000 times.
 
 The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437).<br>
 This page lists some of our scientific and industry applications of SAFE.
