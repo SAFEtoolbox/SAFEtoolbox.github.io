@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Applications"
 nav: true
 ---
 
