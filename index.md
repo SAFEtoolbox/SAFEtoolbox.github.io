@@ -4,7 +4,7 @@ nav: true
 
 ## The Sensitivity Analysis For Everybody (SAFE) Toolbox ##
 
-[<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/)
+<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >
 
 The SAFE Toolbox provides a set of functions to perform Global Sensitivity Analysis. 
 It implements several methods, including the Elementary Effects Test, Regional Sensitivity Analysis,
