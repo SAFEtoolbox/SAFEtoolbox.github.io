@@ -11,14 +11,17 @@ nav: true
 
 Since 2015, SAFE was distributed open-source and free-of-charge through a bespoke website upon filling in a download request. This distribution model enabled monitoring the number of downloads and gathering some basic information about the users affiliation, role, and area of expertise. As of February 2023, when the safetoolbox.info website was closed and SAFE was moved to Github, the toolbox had been downloaded over 4000 times.
 
+<img src="fig_all.png" alt="SAFE logo" style="width:40%;" >
+
 The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437).<br>
-Below is a list of some of our own studies where SAFE was used, with associated workflows and data. <br>
-Other industry applications of SAFE include:
+At the bottom of this page is a list of some of scientific applications of SAFE from our research group, with associated workflows and data. <br>
+
+Other **industry applications** of SAFE include:
 * Knowledge Transfer project on using SAFE in the (re)insurance industry: [safe-insurance.uk](https://safe-insurance.uk) 
 * [Talk](https://youtu.be/z66D5RrSI-Y) on why we need to better handle uncertainty in mathematical models
 * AXA XL [White paper](https://axaxl.com/-/media/axaxl/files/pdfs/campaign/reinsurance-outlook/downloads/safe-axa-xl-whitepaper_v-july-12-2022-clean-copy-pmw.pdf) on using SAFE for Catastrophe models evaluation
 
-### Application papers
+#### Scientific applications from our group
 
 [Bozzolan, E., Holcombe, E. A., Pianosi, F. & Wagener, T., (2020), 
 Including informal housing in slope stability analysis – an application to a data-scarce 
