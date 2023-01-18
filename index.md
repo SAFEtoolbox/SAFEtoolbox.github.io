@@ -2,6 +2,7 @@
 nav: true
 ---
 
+# The Sensitivity Analysis For Everyone (SAFE) toolbox #
 
 <img src="drawing2.png" alt="SAFE logo" style="width:20%;" >
 
