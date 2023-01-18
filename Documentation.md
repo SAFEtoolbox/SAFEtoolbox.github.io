@@ -9,7 +9,7 @@ nav: true
 
 <!--## Scientific and Technical Documentation-->
 
-### How to use SAFE ###
+#### How to use SAFE
 
 A general introduction to the rationale and architecture of SAFE is given in:<br>
 [Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, 
@@ -29,7 +29,7 @@ The name of each workflow is composed as: <br>
 Furthermore, SAFE includes additional workflow scripts on how to connect SAFE to a model running outside matlab/octave
 (external) and how to use visualisation functions for qualitative GSA (visual).
 
-### Why doing GSA ###
+#### Why doing GSA
 
 A **literature review** of GSA applications in the context of earth systems modelling, 
 focusing on what can be learnt about the construction, testing and use of environmental
@@ -48,7 +48,7 @@ A set of **interactive Jupyter Notebooks** for a more playful introduction to th
 A discussion about the connection between **GSA and model evaluation** particularly for impacts assessment under change: <br>
 [Wagener, T., Reinecke R., Pianosi, F. (2022) On the evaluation of climate change impact models, WIREs Climate Change, 13(3), e772](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.772)
 
-### How to do GSA ###
+#### How to do GSA
 
 A general introduction to the working principles of Global Sensitivity Analysis 
 and how to make key set-up choices (how to choose the GSA method, the sampling strategy, 
