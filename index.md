@@ -1,4 +1,5 @@
 ---
+title: ""
 nav: true
 ---
 
