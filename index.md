@@ -21,9 +21,11 @@ the number of downloads and gathering contact details and some basic information
 role, and area of expertise). In 2018, we used these information to run a survey of the users community 
 at the time, and get their evaluation of SAFE. 
 The results of this survey are discussed in [Pianosi et al (2020)](/index#references).
+
 As of February 2023, when the safetoolbox.info website 
 was closed and the code moved to Github, the toolbox had been downloaded over 4000 times
-from students and researchers from 160 different countries. <br>
+from students and researchers from 160 different countries and across a range of areas in
+engineering and science. A visual summary is available [here](./Statistics.md/). <br>
 
 ### Download ###
 
