@@ -1,6 +1,6 @@
 ---
 title: ""
-nav: true
+nav: false
 ---
 
 [<img src="drawing2.png" alt="SAFE logo" style="width:20%;" >](./index.md/) <br>
