@@ -18,11 +18,10 @@ but was then made available also in R and Python. <br>
 SAFE was first released in 2015. Until 2022, when the code was moved to GitHub,
 SAFE was distributed open-source and free-of-charge through a bespoke 
 website (safetoolbox.info) upon filling in a download request. This distribution model enabled us to monitor 
-the number of downloads and gathering contact details and some basic information about the users (affiliation, 
-role, and area of expertise). <br>
+the number of downloads and gathering contact details and some basic information about the users (country, research field, etc). <br>
 In 2018, we used these information to run a survey of the users community 
 at the time, and get their evaluation of SAFE. 
-The results of this survey are discussed in [Pianosi et al (2020)](/index#references). <br>
+The results of this survey are discussed in [Pianosi et al (2020)](/index#references).
 As of February 2023, when the safetoolbox.info website 
 was closed and the code moved to Github, the toolbox had been downloaded over 4000 times
 from students and researchers from 160 different countries and across a range of areas in
