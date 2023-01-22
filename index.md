@@ -13,7 +13,7 @@ Variance-Based (Sobol’) sensitivity analysis and the PAWN method.
 SAFE was originally developed for the Matlab/Octave environment [(Pianosi et al. 2015)](/index#references)
 but was then made available also in R and Python. <br>
 
-### Who is using SAFE ###
+### Who uses SAFE ###
 
 SAFE was first released in 2015. Until 2022, when the code was moved to GitHub,
 SAFE was distributed open-source and free-of-charge through a bespoke 
