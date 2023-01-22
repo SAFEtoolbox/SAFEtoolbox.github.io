@@ -24,7 +24,7 @@ PAWN was introduced in the paper: <br>
 [Pianosi, F., Wagener, T. (2015), A simple and efficient method for global sensitivity analysis based on 
 cumulative distribution functions, Environmental Modelling & Software, 67, 1-11.](http://www.sciencedirect.com/science/article/pii/S1364815215000237)
 
-A new (and recommended) approximation strategy of PAWN sensitivity indices is discussed in the paper: <br>
+A new (and recommended) approximation strategy of PAWN sensitivity indices is discussed in: <br>
 [Pianosi, F., Wagener, T. (2018), Distribution-based sensitivity analysis from a generic input-output sample, 
 Environmental Modelling & Software, 108, 197-207.](https://www.sciencedirect.com/science/article/pii/S1364815218303220)
 
