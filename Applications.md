@@ -9,16 +9,16 @@ nav: true
 
 <!--## Applications-->
 
-Over the period from 2015, when we first released SAFE, to 2022 (when we moved the software from our bespoke website to GitHub and stopped counting downloads) SAFE was requested by over 4000 students and researchers across the world. Over the same period, the paper introducing SAFE [(Pianosi et al., 2015)](./index.md/#references) was cited in the scientific literature over 300 times. <br>
+SAFE is widely used by researchers across different fields (some basic statistcs of download requests of SAFE btween 2016 and 2022 is given [here](./Statistics.md/)). The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437). 
 
-The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437). This page provides a list of some of the scientific applications of SAFE developed by our research group, along with the associated workflows and data. <br>
+This page provides a list of some of the scientific applications of SAFE developed by our research group, along with the associated workflows and data. 
 
-Besides research applications, some **industry applications** of SAFE include:
+For information about **industry applications** of SAFE, see:
 * Knowledge Transfer project on using SAFE in the (re)insurance industry: [safe-insurance.uk](https://safe-insurance.uk) 
 * [Talk](https://youtu.be/z66D5RrSI-Y) on why we need to better handle uncertainty in mathematical models
 * AXA XL [White paper](https://axaxl.com/-/media/axaxl/files/pdfs/campaign/reinsurance-outlook/downloads/safe-axa-xl-whitepaper_v-july-12-2022-clean-copy-pmw.pdf) on using SAFE for Catastrophe models evaluation
 
-#### Scientific applications from our group
+**Scientific applications from our group**
 
 [Bozzolan, E., Holcombe, E. A., Pianosi, F. & Wagener, T., (2020), 
 Including informal housing in slope stability analysis – an application to a data-scarce 
