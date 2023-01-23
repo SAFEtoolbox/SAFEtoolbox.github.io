@@ -9,7 +9,7 @@ nav: true
 
 <!--## Applications-->
 
-SAFE is widely used by researchers across different fields (some statistics of the SAFE download requests between 2016 and 2022 are given [here](./Statistics.md/)). The full list of scientific papers referencing SAFE can be found on [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437). 
+SAFE is widely used by researchers across different fields (some statistics of the SAFE download requests between 2016 and 2022 are given [here](./Statistics.md/)). The full list of scientific papers referencing SAFE can be found on [Google Scholar](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9015035672918705464) or [Scopus](https://www.scopus.com/results/citedbyresults.uri?sort=plf-f&cite=2-s2.0-84929471545&src=s&imp=t&sid=053f269f36a3f59b4f0d58a6064ea462&sot=cite&sdt=a&sl=0&origin=inward&editSaveSearch=&txGid=4e0ce9409ad79763ae9e206d30d62437). 
 
 This page provides a list of some of the scientific applications of SAFE developed by our research group, along with the associated workflows and data. 
 
