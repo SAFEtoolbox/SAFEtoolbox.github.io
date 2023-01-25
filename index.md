@@ -30,9 +30,9 @@ engineering and science. A visual summary is available [here](./Statistics.md/).
 ### Download ###
 
 The SAFE Toolbox is available on GitHub in three versions:
-* [Matlab version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-matlab/)
-* [Python version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-python/)
-* [R version](https://github.com/SAFEtoolbox/SAFEtoolbox/tree/master/SAFE-R/)
+* [Matlab version](https://github.com/SAFEtoolbox/SAFE-matlab)
+* [Python version](https://github.com/SAFEtoolbox/SAFE-python)
+* [R version](https://github.com/SAFEtoolbox/SAFE-R)
 
 Use SAFE freely but please cite the paper [Pianosi et al. (2015)](/index#references) in any publication
 presenting results obtained using SAFE.
