@@ -62,8 +62,8 @@ This software is distributed under the [GNU Public License Version 3](https://ww
 
 SAFE was originally developed in Matlab by Francesca Pianosi, Fanny Sarrazin and Thorsten Wagener 
 at the Department of Civil Engineering at the University of Bristol. The R version was developed
-by Isabella Gollini and Valentina Noacco. The Python Jupyter Notebooks were developed by
-Andres Penuela-Fernandez.
+by Isabella Gollini and Valentina Noacco. The Python version was developed by Fanny Sarrazin,
+and Jupyter Notebooks were developed by Andres Penuela-Fernandez.
 
 ### Acknowledgements ###
 
