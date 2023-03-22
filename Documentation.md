@@ -11,13 +11,16 @@ nav: true
 
 This page lists some of the scientific publications developed by our research group about SAFE and Global Sensitivity Analysis in general. These are useful readings to learn about the rationale of the SAFE toolbox, how to use it, what kind of questions GSA can address and the key steps in setting up GSA. <br>
 For a quicker, hands-on introduction to SAFE/GSA, instead, you can look at some of our interactive Jupyter Notebooks (they can be run from the browser, no need to download or install SAFE on your computer):
-<!-- * [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_flu_model.ipynb) -->
-* [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)
-* [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)
+<br>
+-- [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)
+<br>
+-- [Using GSA to find the key controls of a system: an ecological model example](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)
+<br>
 
 <!-- old links:
 https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_hydrological_model.ipynb
 https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_predator_prey_model.ipynb
+[Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_flu_model.ipynb)
 -->
 
 ### Resources about SAFE
