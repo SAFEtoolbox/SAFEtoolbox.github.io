@@ -23,7 +23,7 @@ https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Intr
 [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_flu_model.ipynb)
 -->
 
-### Resources about SAFE
+### Resources about SAFE ### 
 
 A general introduction to the rationale and architecture of SAFE is given in:<br>
 [Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, 
@@ -44,7 +44,7 @@ The name of each workflow is composed as: <br>
 Furthermore, SAFE includes additional workflow scripts on how to connect SAFE to a model running outside matlab/octave
 (external) and how to use visualisation functions for qualitative GSA (visual).
 
-### Resources about Global Sensitivity Analysis
+### Resources about Global Sensitivity Analysis ### 
 
 **Why doing GSA**
 
