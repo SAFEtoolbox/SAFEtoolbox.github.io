@@ -10,7 +10,7 @@ nav: true
 <!--## Scientific and Technical Documentation-->
 
 This page lists some of the scientific publications developed by our research group about SAFE and Global Sensitivity Analysis in general. These are useful readings to learn about the rationale of the SAFE toolbox, how to use it, what kind of questions GSA can address and the key steps in setting up GSA. <br>
-For a quicker, hands-on introduction to SAFE/GSA, instead, you can look at some of our interactive Jupyter Notebooks (they can be run from the browser, no need to download or install SAFE on your computer):
+For a quicker, hands-on introduction to SAFE/GSA, instead, you can look at some of our interactive Jupyter Notebooks (they can be run from the browser, no need to download/install SAFE):
 <br>
 -- [Using GSA to identify the most influential model parameters: application to a hydrological model](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)
 <br>
@@ -23,7 +23,7 @@ https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Intr
 [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_flu_model.ipynb)
 -->
 
-### Resources about SAFE ### 
+### Resources about SAFE ###
 
 A general introduction to the rationale and architecture of SAFE is given in:<br>
 [Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, 
