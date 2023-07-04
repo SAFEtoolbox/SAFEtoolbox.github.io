@@ -9,19 +9,19 @@ nav: true
 
 <!--## Scientific and Technical Documentation-->
 
-This page lists some of the scientific publications developed by our research group about SAFE and Global Sensitivity Analysis in general. These are useful readings to learn about the rationale of the SAFE toolbox and how to use it, as well as learning more broadly about GSA: what kind of questions GSA can address, how to choose the most appropriate GSA method for the problem at hand and how to make key set-up choices. This page also includes links to a set of interactive Jupyter Notebooks that can be run locally (in Python) or directly from the browser (using the mybinder.org service) that provide a hands-on introduction to SAFE/GSA.<br>
+This page lists some of the scientific publications developed by our research group about SAFE and Global Sensitivity Analysis in general. These are useful readings to learn about the rationale of the SAFE toolbox and how to use it, as well as learning more broadly about GSA: what kind of questions GSA can address, how to choose the most appropriate GSA method for the problem at hand and how to make key set-up choices. This page also includes links to a set of interactive Jupyter Notebooks, which can be run locally (in Python) or directly from the browser, and that provide a hands-on introduction to SAFE/GSA.<br>
 
-**interactive Jupyter Notebooks**
+**Interactive Jupyter Notebooks**
 
-These notebooks provide simple, step-by-step application examples of GSA for a range of different purposes and models. They are meant to be used as a quick, hands-on introduction to SAFE/GSA. Python users can download and run the notebooks locally using [jupyter]( https://jupyter.org/), otherwise they can also be run from the browser (without installing neither Python or SAFE) using the free [mybinder](https://mybinder.org/) service. Currently available notebooks provide examples of: <br>
+These notebooks provide simple application examples of GSA for a range of different purposes and models. They are meant to be used as a quick, hands-on introduction to SAFE/GSA. The notebooks can downloaded and run locally using [jupyter](https://jupyter.org/) (and Python), or they can be run directly from the browser using the free [mybinder](https://mybinder.org/) service (this means you do not need to have neither Python or SAFE installed on your computer, but it may take some time if the mybinder server is busy). Currently available notebooks provide examples of: <br>
 -- Using GSA to identify the most important parameters for model calibration - hydrological model example:
-[notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
+[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
 [Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)<br>
 -- Using GSA to find the key controls of a system - ecological model example: 
-[notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
+[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
 [Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)<br>
 -- Using GSA to enhance model-informed decisions under uncertainty - epidemiological model example: 
-[notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
+[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
 [Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEpidemiological_example.ipynb)
 
 <!-- old links:
@@ -30,7 +30,7 @@ https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Intr
 [Using GSA to enhance model-informed decisions: application example to a flu model](https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_flu_model.ipynb)
 -->
 
-**Resources about the SAFE toolbox**
+**Papers about the SAFE toolbox**
 
 A general introduction to the rationale and architecture of SAFE is given in:<br>
 [Pianosi, F., Sarrazin, F., Wagener, T. (2015), A Matlab toolbox for Global Sensitivity Analysis, 
@@ -51,7 +51,7 @@ The name of each workflow is composed as: <br>
 Furthermore, SAFE includes additional workflow scripts on how to connect SAFE to a model running outside matlab/octave
 (external) and how to use visualisation functions for qualitative GSA (visual).
 
-**Resources about Global Sensitivity Analysis**
+**Papers about Global Sensitivity Analysis**
 
 **_Why doing GSA_**
 
