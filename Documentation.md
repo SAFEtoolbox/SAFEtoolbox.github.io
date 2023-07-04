@@ -13,15 +13,14 @@ This page lists some of the scientific publications developed by our research gr
 
 **interactive Jupyter Notebooks**
 
-These notebooks provide simple, step-by-step application examples of GSA for a range of different purposes and models. They are meant to be used as a quick, hands-on introduction to SAFE/GSA. Python users can download and run the notebooks locally using [jupyter]( https://jupyter.org/), otherwise they can also be run from the browser (without installing neither Python or SAFE) using the free [mybinder](https://mybinder.org/) service. Currently available notebooks provide examples of:
-<br>
-* Using GSA to identify the most important parameters for model calibration - hydrological model example <br>
+These notebooks provide simple, step-by-step application examples of GSA for a range of different purposes and models. They are meant to be used as a quick, hands-on introduction to SAFE/GSA. Python users can download and run the notebooks locally using [jupyter]( https://jupyter.org/), otherwise they can also be run from the browser (without installing neither Python or SAFE) using the free [mybinder](https://mybinder.org/) service. Currently available notebooks provide examples of: <br>
+-- Using GSA to identify the most important parameters for model calibration - hydrological model example:
 [notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
-[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)
-* Using GSA to find the key controls of a system - ecological model example <br>
+[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)<br>
+-- Using GSA to find the key controls of a system - ecological model example: 
 [notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
-[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)
-* Using GSA to enhance model-informed decisions under uncertainty - epidemiological model example <br>
+[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)<br>
+-- Using GSA to enhance model-informed decisions under uncertainty - epidemiological model example: 
 [notebook source](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
 [Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEpidemiological_example.ipynb)
 
