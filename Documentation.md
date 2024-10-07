@@ -15,14 +15,14 @@ This page lists some of the scientific publications developed by our research gr
 
 These notebooks provide simple application examples of GSA for a range of different purposes and models. They are meant to be used as a quick, hands-on introduction to SAFE/GSA. The notebooks can downloaded and run locally using [jupyter](https://jupyter.org/) (and Python), or they can be run directly from the browser using the free [mybinder](https://mybinder.org/) service (this means you do not need to have neither Python or SAFE installed on your computer, but it may take some time if the mybinder server is busy). Currently available notebooks provide examples of: <br>
 -- Using GSA to identify the most important parameters for model calibration - hydrological model example:
-[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
-[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FHydrological_example.ipynb)<br>
+[Download](https://github.com/SAFEtoolbox/demos/blob/main/content) | 
+[Run from browser](https://safetoolbox.github.io/demos/lab/index.html?path=Hydrological_example.ipynb)<br>
 -- Using GSA to find the key controls of a system - ecological model example: 
-[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
-[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEcological_example.ipynb)<br>
+[Download](https://github.com/SAFEtoolbox/demos/blob/main/content) | 
+[Run from browser](https://safetoolbox.github.io/demos/lab/index.html?path=Ecological_example.ipynb)<br>
 -- Using GSA to enhance model-informed decisions under uncertainty - epidemiological model example: 
-[Download](https://github.com/SAFEtoolbox/SAFE-python/tree/main/examples/notebooks) | 
-[Run from browser](https://mybinder.org/v2/gh/SAFEtoolbox/SAFE-python/main?labpath=%2Fexamples%2Fnotebooks%2FEpidemiological_example.ipynb)
+[Download](https://github.com/SAFEtoolbox/demos/blob/main/content) | 
+[Run from browser](https://safetoolbox.github.io/demos/lab/index.html?path=Epidemiological_example.ipynb)
 
 <!-- old links:
 https://mybinder.org/v2/gh/SAFEtoolbox/Miscellaneous/HEAD?urlpath=notebooks/Introductory_Notebooks/GSA_hydrological_model.ipynb
